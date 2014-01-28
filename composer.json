@@ -36,5 +36,10 @@
 		"nella/console": "Need for console support",
 		"doctrine/migrations": "Need for migrations support",
 		"nella/gedmo": "Integrate Doctrine Gedmo extension to Nette Framework"
-	}
+	},
+	 "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
 }
